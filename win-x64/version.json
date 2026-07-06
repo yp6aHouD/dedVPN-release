@@ -1,4 +1,4 @@
 {
-  "version": "0.5.0",
-  "notes": "Первый публичный релиз с обновлением без токена."
+  "version": "0.5.1",
+  "notes": "VLESS (xhttp / reality) и hy2 fixes"
 }
