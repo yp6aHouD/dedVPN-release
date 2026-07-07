@@ -1,4 +1,4 @@
 {
-  "version": "0.5.1",
-  "notes": "VLESS (xhttp / reality) и hy2 fixes"
+  "version": "0.5.2",
+  "notes": "Added application update system"
 }
